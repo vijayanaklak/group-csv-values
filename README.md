@@ -23,3 +23,6 @@ Case 2 : Rows does not have Connection
                  Group values = [[1,2],[4,3],[5,6]]
                  
                  
+Use the following URL to access the service
+
+localhost:8081//informatica/groupsFromCsv
